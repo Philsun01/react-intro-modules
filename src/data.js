@@ -42,3 +42,4 @@ const data = {
 };
 
 export default data;
+export {users, companies, products};
